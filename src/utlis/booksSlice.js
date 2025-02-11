@@ -4,7 +4,7 @@ import { Books } from "./mockdata";
 const bookSlice = createSlice({
     name: "books",
     initialState: {
-        books: [...Books], // Use pre-stored books as initial state
+        books: [...Books],
     },
     reducers: {
         addItem: (state, action) => {
