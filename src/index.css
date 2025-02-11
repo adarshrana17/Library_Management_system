@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.home{
+    @apply  absolute left-5 top-5 border p-1 px-3 rounded-lg hover:bg-blue-500 hover:text-white inline hover:scale-[1.2]
+}
+.inp{
+    @apply  h-10 w-96 pl-2 rounded-lg bg-white text-black
+}
+
