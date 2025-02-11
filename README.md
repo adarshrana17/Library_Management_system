@@ -1,12 +1,13 @@
-<<<<<<< HEAD
-# Library_Management_system
-=======
-# React + Vite
+# Online Library Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an Online Library Management System built using **React** and **Redux**. The application allows users to browse books, add new books, and manage the collection efficiently.
 
-Currently, two official plugins are available:
+## Features
+Browse available books  
+Add new books to the collection  
+View book details  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> e85acf5 (Initial commit)
+## Technologies Used
+- React  
+- Redux  
+- React Router
